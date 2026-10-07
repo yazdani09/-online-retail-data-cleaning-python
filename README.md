@@ -49,7 +49,7 @@ The project includes analysis and visualizations covering:
 
 ## Project Outcome
 
-The dataset was cleaned and prepared for further data analysis and visualization. The project also documents the data-cleaning process and presents the results through relevant visualizations.
+The dataset was cleaned and prepared for further data analysis and visualization. The project documents the complete data-cleaning process and presents key insights through relevant visualizations.
 
 ## Author
 
