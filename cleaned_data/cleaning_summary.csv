@@ -1,0 +1,6 @@
+Stage,Rows,Rows Removed,Percentage Retained
+Original Dataset,525461,0,100.0
+After Removing Duplicates,518596,6865,98.69
+After Removing Negative Prices,518593,3,98.69
+After Removing Missing Descriptions,515665,2928,98.14
+Final Sales Dataset,502630,13035,95.66
