@@ -1,6 +1,6 @@
-Stage,Rows,Rows Removed,Percentage Retained
-Original Dataset,525461,0,100.0
-After Removing Duplicates,518596,6865,98.69
-After Removing Negative Prices,518593,3,98.69
-After Removing Missing Descriptions,515665,2928,98.14
-Final Sales Dataset,502630,13035,95.66
+Stage,Rows Remaining,Rows Removed at Stage,Explanation
+Original dataset,525461,0,Starting point
+After exact duplicate removal,518596,6865,"6,865 exact duplicates removed"
+After negative-price removal,518593,3,Three bad-debt adjustments removed
+After missing-description removal,515665,2928,Description required for cleaned product view
+Final sales dataset,502630,13035,Analysis filter: positive quantity + positive price + product codes only
